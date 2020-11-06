@@ -1,0 +1,2 @@
+(this["webpackJsonptrain-ticket"]=this["webpackJsonptrain-ticket"]||[]).push([[8],{27:function(t,n,e){t.exports=e(35)},28:function(t,n,e){},29:function(t,n,e){},35:function(t,n,e){"use strict";e.r(n);var c=e(0),i=e.n(c),o=e(3),a=e.n(o),r=e(2),u=(e(5),e(1)),s=e(4),p=Object(u.d)(Object(u.c)({}),{},Object(u.a)(s.a));e(28),e(29);Object(r.b)((function(t){}),(function(t){}))((function(t){}));a.a.render(i.a.createElement(r.a,{store:p},i.a.createElement(App,null)),document.getElementById("root"))}},[[27,7,0]]]);
+//# sourceMappingURL=ticket.a7734a47.chunk.js.map
